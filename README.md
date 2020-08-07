@@ -7,3 +7,7 @@
 ![TEST](https://xscode.com/b03a6b7837ebcfb0b51f43e9f0417717-520.png)
 
 [![Foo](localhost:4200/assets/promo-banner.svg)](https://localhost/devil6x/sturdy-engine)
+
+```typescript
+type Dict<K, T> = { [key: K]: T }
+```
