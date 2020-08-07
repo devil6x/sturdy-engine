@@ -8,6 +8,6 @@
 
 [![Foo](localhost:4200/assets/promo-banner.svg)](https://localhost/devil6x/sturdy-engine)
 
-```javascript
+```typescript
 type Dict<K, T> = { [key: K]: T }
 ```
